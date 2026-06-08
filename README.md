@@ -145,6 +145,3 @@ The simulation exports PPM images using the following colour mapping:
 - Python data visualisation
 - Experimental evaluation
 
-## Academic integrity note
-
-This public repository is intended as a portfolio version of the project. University briefing and marking documents are not included. If reusing or adapting this work, follow your institution's academic integrity rules and cite any sources appropriately.
